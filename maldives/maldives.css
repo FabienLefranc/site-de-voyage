@@ -1,0 +1,29 @@
+/*.....................................................MALDIVES.................................................*/
+*{
+    background-color: #dad5d5;        
+}
+.button4{
+    background-color: #dad5d5;
+    color: #444;
+    float:right;
+    font-size: 20px;
+    font-family: 'Segoe UI Black','arial black', serif;
+    margin : 15px 10px 0 0;   
+    text-decoration: none;
+    
+}
+.button4:hover{
+    background-color: #dad5d5;
+    color: #02b8dd;
+    float:right;
+    font-size: 20px;
+    font-family: 'Segoe UI Black','arial black', serif;
+    margin : 15px 10px 0 0;   
+    text-decoration: none;
+}
+iframe{
+    position: fixed;
+    left:calc( 50% - 330px);/*bien laisser des espaces avec le -*/
+    top:calc( 50% - 186px);    
+}
+    
